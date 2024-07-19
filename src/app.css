@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Director Regular';
+    src: url('../src/fonts/Director Regular.woff2') format('woff2');
+}
+
+p {
+    font-family: 'Director Regular', serif;
+    font-size: 12px;
+}
+
+body {
+    font-family: 'Director Regular', serif;
+    text-align: justify; 
+    font-size: 12px;
+    padding: 0px;
+}
