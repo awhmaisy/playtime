@@ -2,6 +2,7 @@
     let items = [
       { title: "physical theory of diffraction", type: "defense", year: 1971, image: "images/f117.jpg", description: "great and incredulous research" },
       { title: "x_x", type: "parsing and collecting", year: 2099, image: "images/miracles are created.jpg", description: "soon, you may see" },
+      { title: "old microsoft", type: "parsing and collecting", year: 2099, image: "images/microsoft.png", description: "i wonder if i may have loved you in another life" },
     ];
   
     let selectedItem = null;
